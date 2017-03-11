@@ -7,4 +7,4 @@ More precisely:
  - foldl: memory usage is constant (!!!)
  - foldl': memory usage is constant (as expected)
 
-This is the opposite of what the wiki suggests: https://wiki.haskell.org/Foldr_Foldl_Foldl'
+This is the opposite of what the wiki suggests: [https://wiki.haskell.org/Foldr_Foldl_Foldl'](https://wiki.haskell.org/Foldr_Foldl_Foldl')
