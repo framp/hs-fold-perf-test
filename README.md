@@ -1,6 +1,6 @@
 #haskell-fold-test
 
-Test to investigate perfomance discrepancies with the fold functions on my system (GHC 8.0.1).
+Test to investigate perfomance discrepancies with the fold functions on my system (GHC 8.0.1 and 8.0.2).
 
 More precisely:
  - foldr: memory usage grows up to crash the system (!!!)
