@@ -1,2 +1,2 @@
 #!/bin/sh
-for i in *.hs; do ghc -O --make -ddump-simpl $i; done
+for i in *.hs; do stack ghc -- -O --make -ddump-simpl $i; done
